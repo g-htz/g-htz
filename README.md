@@ -6,9 +6,9 @@ Welcome to my profile! Check out my pinned projects below or take a look at what
 
 ### **Connect with me:**
 
-<a href src="linkedin.com/in/g-htz"><img align="left" alt="linkedin" title="LinkedIn" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-256.png" /><a/>
+<a href="https://www.linkedin.com/in/g-htz"><img align="left" alt="linkedin" title="LinkedIn" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-256.png" /><a/>
 
-<br/><br/>
+<br></br>
 ## **My Tech Stack**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
