@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, I'm George 👋
+
+![github-snake](github-snake.svg)
+
+Welcome to my profile! Check out my pinned projects above or check out stuff I've got in my Stars tab. Looking to collaborate on app building on the weekend so feel free to reach out, especially if you're interested in AI and predictive modelling 🥳
 
 <!--
 **g-htz/g-htz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
