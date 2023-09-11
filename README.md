@@ -2,7 +2,7 @@
 
 ![github-snake](github-snake.svg)
 
-Welcome to my profile! Check out my pinned projects below or take a look at what I've got in my Stars tab. Looking to collaborate on building apps on weekends so feel free to reach out, especially if you're interested in AI and predictive modelling 🥳
+Welcome to my profile! Check out my pinned projects below or take a look at my favourite Open Source Software repos in my Stars tab. Looking to collaborate on building apps on weekends so feel free to reach out, especially if you're interested in AI and predictive modelling 🥳
 
 ### **Connect with me:**
 
